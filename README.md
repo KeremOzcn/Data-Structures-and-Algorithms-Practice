@@ -36,7 +36,7 @@ A simple program to simulate bank account operations such as deposits and withdr
 - Methods for balance updates and checks.
 
 **Key File**:
-- `bank account.cpp`
+- `BankAccount.cpp`
 
 **Features**:
 - Deposit money into the account.
@@ -45,13 +45,13 @@ A simple program to simulate bank account operations such as deposits and withdr
 
 ---
 
-### **3. Perimeter and Area Calculation**
+### **3. Rectangle Perimeter and Area Calculation**
 A program for calculating the area and perimeter of a rectangle. It showcases:
 - Class design for geometric shapes.
 - Dynamic updates to object properties.
 
 **Key File**:
-- `perimetre and area.cpp`
+- `Rectangle.cpp`
 
 **Features**:
 - Compute area and perimeter based on dimensions.
