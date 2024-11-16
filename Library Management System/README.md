@@ -73,4 +73,4 @@ library-management-system/
 ├── Member.h         # Header file for the Member class
 ├── Library.cpp      # Implementation of the Library class
 ├── Library.h        # Header file for the Library class
-└── main.cpp         # Main file to demonstrate library operations
+└── main.cpp         # Main file to demonstrate library operation
