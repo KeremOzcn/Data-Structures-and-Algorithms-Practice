@@ -75,7 +75,7 @@ oop-projects/
 │   └── main.cpp
 │
 ├── Bank Account/
-│   └── bank account.cpp
+│   └── BankAccount.cpp
 │
 └── Geometry/
-    └── perimetre and area.cpp
+    └── Rectangular.cpp
