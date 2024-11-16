@@ -1,6 +1,6 @@
 # **Object-Oriented Programming (OOP) Projects**
 
-This repository contains multiple projects and examples developed as part of my **Object-Oriented Programming (OOP)** course. These projects demonstrate the principles of OOP, such as encapsulation, polymorphism, and modular design, using practical scenarios like reservation systems, bank account management, and geometric calculations.
+This repository contains multiple projects and examples developed as part of my **Object-Oriented Programming (OOP)** course. These projects demonstrate the principles of OOP, such as encapsulation, polymorphism, and modular design, using practical scenarios like reservation systems, library management, bank account management, and geometric calculations.
 
 ---
 
@@ -30,7 +30,26 @@ A system that allows customers to book services such as hotel rooms. It demonstr
 
 ---
 
-### **2. Bank Account Management**
+### **2. Library Management System**
+A project that manages books, members, and borrowing operations in a library. It demonstrates:
+- Book addition, removal, and viewing.
+- Member registration and management.
+- Borrowing and returning books with status updates.
+
+**Key Files**:
+- `Book.cpp`, `Book.h`
+- `Member.cpp`, `Member.h`
+- `Library.cpp`, `Library.h`
+- `main.cpp`
+
+**Sample Features**:
+- Add and remove books from the library.
+- Register members and manage their borrowing history.
+- Borrow and return books dynamically.
+
+---
+
+### **3. Bank Account Management**
 A simple program to simulate bank account operations such as deposits and withdrawals. It highlights:
 - Encapsulation of account details.
 - Methods for balance updates and checks.
@@ -45,7 +64,7 @@ A simple program to simulate bank account operations such as deposits and withdr
 
 ---
 
-### **3. Rectangle Perimeter and Area Calculation**
+### **4. Rectangle Perimeter and Area Calculation**
 A program for calculating the area and perimeter of a rectangle. It showcases:
 - Class design for geometric shapes.
 - Dynamic updates to object properties.
@@ -74,8 +93,17 @@ oop-projects/
 │   ├── Service.h
 │   └── main.cpp
 │
+├── Library Management/
+│   ├── Book.cpp
+│   ├── Book.h
+│   ├── Member.cpp
+│   ├── Member.h
+│   ├── Library.cpp
+│   ├── Library.h
+│   └── main.cpp
+│
 ├── Bank Account/
 │   └── BankAccount.cpp
 │
 └── Geometry/
-    └── Rectangular.cpp
+    └── Rectangle.cpp
